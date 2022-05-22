@@ -23,27 +23,27 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/saphh1.jpg',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/letmeloveyou.mp3'
+        name : 'Back at one',
+        artist : 'Brian Mcknight',
+        music : 'music/brian.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/sapph2.jpg',
+        name : 'Speechless',
+        artist : 'Michael Jackson',
+        music : 'music/speechless.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/sapph3.jpg',
+        name : 'This i promise you',
+        artist : 'Nsync',
+        music : 'music/nsync.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/sapph4.jpg',
+        name : 'Forever',
+        artist : 'Chris Brown',
+        music : 'music/cb.mp3'
     }
 ];
 
